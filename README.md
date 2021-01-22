@@ -67,16 +67,20 @@ Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaS
     </tbody>
   </table>
   
+  
+  
 ### Contact
+
 <a href="https://www.linkedin.com/in/milosz-samec/">
-  <img align="left" src="https://camo.githubusercontent.com/d698dfc592be2f7132dedd7434affff3ccbcb4bb7739ad12d7ab4524199f01fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d4c696e6b6564496e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d776869746526636f6c6f723d376132386363" data-canonical-src="https://img.shields.io/badge/%20-LinkedIn-informational?style=flat&amp;logo=LinkedIn&amp;logoColor=white&amp;color=3a22cc" style="max-width:100%;">
+    <img align="left" src="https://camo.githubusercontent.com/d698dfc592be2f7132dedd7434affff3ccbcb4bb7739ad12d7ab4524199f01fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d4c696e6b6564496e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d776869746526636f6c6f723d376132386363" data-canonical-src="https://img.shields.io/badge/%20-LinkedIn-informational?style=flat&amp;logo=LinkedIn&amp;logoColor=white&amp;color=3a22cc" style="max-width:100%;">
 </a>
 
 <a href="https://drive.google.com/file/d/1wn0sDxe4ihQS0EHzJZsx1593V2zq3qyH/view" rel="nofollow">
-   <img align="left" src="https://camo.githubusercontent.com/0f8e9979dc9002026917bf82ac4eae53537b5f8bc76fd86f97974be965c75ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d526573756d652532305044462d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f436f6c6f723d776869746526636f6c6f723d376132386363" data-canonical-src="https://img.shields.io/badge/%20-Resume%20PDF-informational?style=flat&amp;logoColor=white&amp;color=3a22cc" style="max-width:100%;">
+    <img align="left" src="https://camo.githubusercontent.com/0f8e9979dc9002026917bf82ac4eae53537b5f8bc76fd86f97974be965c75ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d526573756d652532305044462d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f436f6c6f723d776869746526636f6c6f723d376132386363" data-canonical-src="https://img.shields.io/badge/%20-Resume%20PDF-informational?style=flat&amp;logoColor=white&amp;color=3a22cc" style="max-width:100%;">
 </a>
-  
-  
+
+
+
 ### Projects
   
 <a href="https://github.com/milosamec/Express_Groomer-TeamA-FE">
