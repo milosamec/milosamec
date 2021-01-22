@@ -83,8 +83,7 @@ Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaS
    <img align="left" src="https://img.shields.io/badge/%20-Email-informational?style=flat&amp;logoColor=white&amp;color=3a22cc" data-canonical-src="https://img.shields.io/badge/%20-Email-informational?style=flat&amp;logoColor=white&amp;color=3a22cc" style="max-width:100%;">
   </a>
 
-
-
+<br />
 ### Projects
   
 <a href="https://github.com/milosamec/Express_Groomer-TeamA-FE">
