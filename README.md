@@ -84,6 +84,8 @@ Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaS
   </a>
 
 <br />
+
+
 ### Projects
   
 <a href="https://github.com/milosamec/Express_Groomer-TeamA-FE">
