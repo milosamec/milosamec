@@ -73,7 +73,7 @@ Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaS
     <img align="left" src="https://img.shields.io/badge/%20-LinkedIn-informational?style=flat&amp;logo=LinkedIn&amp;logoColor=white&amp;color=3a22cc" data-canonical-src="https://img.shields.io/badge/%20-LinkedIn-informational?style=flat&amp;logo=LinkedIn&amp;logoColor=white&amp;color=3a22cc" style="max-width:100%;">
 </a>
 
-<a href="https://drive.google.com/file/d/1wn0sDxe4ihQS0EHzJZsx1593V2zq3qyH/view" rel="nofollow">
+<a href="https://drive.google.com/file/d/1hBi5j1WjtIJt0JQuYvMaM9vBnP5B3Kme/view?usp=sharing" rel="nofollow">
     <img align="left" src="https://img.shields.io/badge/%20-Resume%20PDF-informational?style=flat&amp;logoColor=white&amp;color=3a22cc" data-canonical-src="https://img.shields.io/badge/%20-Resume%20PDF-informational?style=flat&amp;logoColor=white&amp;color=3a22cc" style="max-width:100%;">
 </a>
 
