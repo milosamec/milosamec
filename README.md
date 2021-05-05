@@ -3,7 +3,7 @@
 ### About Me
 Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaScript, React, Node, and MERN stack. My colleagues describe me as very articulate, friendly, approachable, and helpful with good problem solving skills. To learn more about me, please check out my portfolio, which includes some of the projects I have worked on.
 
-### Currently working on a full stack website for one of the best cleaning companies in Connecticut. STACK: JavaScript, React, Redux, Bootstrap v5, Node.js, Express, Firebase, oAuth, SEO & SEM Optimization
+### Currently working on a full stack website for one of the best cleaning companies in Connecticut. STACK: JavaScript, React, Redux, Bootstrap v5, Node.js, Express, Firebase, oAuth, SEO & SEM Optimization, Google SDK, Yelp API
 
 <table>
     <thead>
